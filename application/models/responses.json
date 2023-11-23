@@ -1,0 +1,192 @@
+{
+  "comment": "responses.json file",
+
+
+  "greetings": {
+    "hello": "Hello! How can I assist you?",
+    "hey": "Hey! How can I assist you?",
+    "hi": "Hi! How can I assist you?"
+  },
+
+  "general_information": {
+    "help": "You can ask me about available courses or enroll in a specific course.",
+    "unknown": "I'm sorry, I didn't understand that. Type 'help' for assistance.",
+    "admissions": "ALX offers admissions for various programs. You can find more information on our website.",
+    "events": "ALX hosts events to connect professionals and foster innovation. Check our blog for updates."
+  },
+
+  "school_information": {
+    "courses": "Our school offers a variety of courses including: AWS Cloud Computing, Data Analytics, Salesforce Administrator, Intro To Software Engineering, Software Engineering Plus",
+    "programs": "ALX offers programs in AWS Cloud Computing, Data Analytics, Salesforce, Software Engineering, and Intro To Software Engineering.",
+    "alx africa": "ALX offers job-ready training in the tech fields employers need most. ALX, in partnership with The ROOM, is brought to you by the organization that leads African Leadership Academy, African Leadership University, and Anzisha Prize Foundation.",
+    "alx_africa": "ALX Africa offers similar job-ready training as ALX. It's part of the organization that leads African Leadership Academy, African Leadership University, and Anzisha Prize Foundation.",
+    "african leadership academy": "The African Leadership Academy (ALA) was founded by Swaniker, as a secondary school that aimed to develop young leaders from across the continent.",
+    "ala": "The African Leadership Academy was founded by Swaniker, as a secondary school that aimed to develop young leaders from across the continent. It's part of the organization ALX that leads African Leadership Academy, African Leadership University, and Anzisha Prize Foundation.",
+    "alu": "African Leadership University (ALU) is also part of the organization that leads African Leadership Academy and Anzisha Prize Foundation. It offers innovative education and programs.",
+
+
+    "founder": "AL Group was founded by Fred Swaniker, a serial entrepreneur with a pan African and global vision of transformation.",
+    "founded": "ALX Africa was founded in 2015 by Fred Swaniker, a Ghanaian entrepreneur and leadership expert.",
+
+
+    "fred swaniker": "Fred Swaniker is a renowned figure who, over the past 15 years, has established and guided several significant initiatives. He is the founder and leader behind the African Leadership Academy (ALA), the African Leadership University, the African Leadership Network, and ALX, which serves as a cutting-edge leadership development and talent sourcing platform.",
+    "fred": "Fred Swaniker is a renowned figure who, over the past 15 years, has established and guided several significant initiatives. He is the founder and leader behind the African Leadership Academy (ALA), the African Leadership University, the African Leadership Network, and ALX, which serves as a cutting-edge leadership development and talent sourcing platform.",
+    "swaniker": "Fred Swaniker is a renowned figure who, over the past 15 years, has established and guided several significant initiatives. He is the founder and leader behind the African Leadership Academy (ALA), the African Leadership University, the African Leadership Network, and ALX, which serves as a cutting-edge leadership development and talent sourcing platform."
+  },
+
+  "application_and_selection_process": {
+    "selection process": "The ALX Selection Process is a two-step online process. First applicants will be required to complete a registration form, which will take a few minutes to complete. Once this has been submitted, applicants will be directed to our online application platform. The application will take approximately 90 mins to complete and consists of three sections, including an English proficiency test. Applicants will also receive access to the online application via email. Your link to the application is personal and therefore cannot be shared."
+  },
+
+  "payment_and_financing": {
+    "payment": "Find out about our available payment terms and options here. Eligible candidates can apply directly for sponsored placements in the program here.",
+    "payment terms": "Find out about our available payment terms and options here. Eligible candidates can apply directly for sponsored placements in the program here.",
+    "fees": "Find out about our available payment terms and options here. Eligible candidates can apply directly for sponsored placements in the program here.",
+    "financing": "Find out about our available payment terms and options here. Eligible candidates can apply directly for sponsored placements in the program here."
+  },
+
+  "se_skills_and_subjects": {
+    "skills for se": "Becoming a successful software engineer requires a combination of technical expertise, such as proficiency in programming, and non-technical skills, such as creativity, problem-solving, teamwork, adaptability, and communication.",
+    "skills for software engineering": "Becoming a successful software engineer requires a combination of technical expertise, such as proficiency in programming, and non-technical skills, such as creativity, problem-solving, teamwork, adaptability, and communication.",
+    "subjects for se": "Computing and IT are the most important subjects to study, but other technical subjects like physics and design technology may also be useful.",
+    "subjects for software engineering": "Computing and IT are the most important subjects to study, but other technical subjects like physics and design technology may also be useful."
+  },
+
+  "software_engineering_program": {
+    "se vs se plus": "The ALX Software Engineering Plus Program includes the highly rated 3-month ALX Foundations module, preparing learners with the crucial soft skills expected by global employers prior to starting their technical program in software engineering plus.",
+    "software engineering vs software engineering plus": "The ALX Software Engineering Plus Program includes the highly rated 3-month ALX Foundations module, preparing learners with the crucial soft skills expected by global employers prior to starting their technical program in software engineering plus."
+  },
+
+  "software_engineering_plus_program": {
+    "se vs se plus": "The ALX Software Engineering Plus Program includes the highly rated 3-month ALX Foundations module, preparing learners with the crucial soft skills expected by global employers prior to starting their technical program in software engineering plus.",
+    "software engineering vs software engineering plus": "The ALX Software Engineering Plus Program includes the highly rated 3-month ALX Foundations module, preparing learners with the crucial soft skills expected by global employers prior to starting their technical program in software engineering plus."
+  },
+
+  "post_program_opportunities": {
+    "complete program": "All ALX learners are invited to join The ROOM Fellowship community where you will have access to a global network of resources, job opportunities, and ongoing career support."
+  },
+
+  "contact_information": {
+    "contact": "Please ask LEA, our Learning Experience Assistant, for more information and answers to any additional questions.",
+    "contact alx": "Please ask LEA, our Learning Experience Assistant, for more information and answers to any additional questions."
+  },
+
+  "sponsored_placements_and_multiple_programs": {
+    "sponsored place": "Learners who do not meet the country of origin or age requirements for sponsored placements have the option to pay for the program or apply for our ALX Global programs. ALX Global programs are offered at a reduced time and rate; however, they will not include the foundation modules or offer access to any of our in-person, community, or hub activations.",
+    "multiple programs": "Due to training requirements and program rigor, ALX permits learners to be enrolled in one program at any given time. If you have applied to or are currently enrolled in a program, you will not be eligible to apply to another program."
+  },
+
+  "in-person_hubs": {
+    "hubs": {
+        "description": "Attending our in-person hubs is a key part of the ALX learning experience. These co-working spaces are designed to provide learners with accountability, peer support, and the opportunity for face-to-face interaction and networking. It's all aimed at boosting productivity and helping individuals achieve their goals.",
+        "locations": [
+            {
+                "name": "Nairobi, Kenya",
+                "location": "Nation Centre, 9th Floor, Nairobi CBD",
+                "working_hours": "Monday – Sunday | 7am – 10pm"
+            },
+            {
+                "name": "Johannesburg, South Africa",
+                "locations": [
+                    {
+                        "name": "Braamfontein Hub",
+                        "location": "19 Ameshoff Street, Braamfontein, Johannesburg",
+                        "working_hours": "Monday – Saturday | 9am – 5pm"
+                    },
+                    {
+                        "name": "Sophiatown (Smaller spoke)",
+                        "location": "71-73 Toby Street, Sophiatown, Johannesburg",
+                        "working_hours": "Monday – Saturday | 9am – 5pm"
+                    }
+                ]
+            },
+            {
+                "name": "Addis Ababa, Ethiopia",
+                "locations": [
+                    {
+                        "name": "Lideta CapStone Hub",
+                        "location": "Lideta Area Balcha Hospital Capstone Building, Addis Ababa",
+                        "working_hours": "Monday – Saturday | 8am – 5pm"
+                    },
+                    {
+                        "name": "CityPoint Hub",
+                        "location": "Haya Hulet Mazoria, City Point, Addis Ababa",
+                        "working_hours": "Monday – Saturday | 8am – 5pm"
+                    }
+                ]
+            },
+            {
+                "name": "Accra, Ghana",
+                "locations": [
+                    {
+                        "name": "Hub 01",
+                        "location": "2nd Floor, SAL Heights Building, Abelemkpe, Accra",
+                        "working_hours": "Monday – Sunday | 8am – 10pm"
+                    },
+                    {
+                        "name": "Hub 02",
+                        "location": "1st Floor, Eni Building, East Legon, Accra",
+                        "working_hours": "Monday – Sunday | 8am – 10pm"
+                    },
+                    {
+                        "name": "Hub 03",
+                        "location": "Behind FNB Bank, Spintex, Accra",
+                        "working_hours": "Monday – Sunday | 8am – 10pm"
+                    }
+                ]
+            },
+            {
+                "name": "Cairo, Egypt",
+                "locations": [
+                    {
+                        "name": "Nasr City",
+                        "location": "El Tayaran Street, Cairo",
+                        "working_hours": "Monday – Sunday | 10am – 10:45pm"
+                    },
+                    {
+                        "name": "Mohandessin",
+                        "location": "Lebanon Street",
+                        "working_hours": "Monday – Sunday | 10am – 10:45pm"
+                    },
+                    {
+                        "name": "Maadi",
+                        "location": "Degla Square",
+                        "working_hours": "Monday – Sunday | 10am – 10:45pm"
+                    },
+                    {
+                        "name": "6th October",
+                        "location": "Hosary Square",
+                        "working_hours": "Monday – Sunday | 10am – 10:45pm"
+                    }
+                ]
+            },
+            {
+                "name": "Kigali, Rwanda",
+                "location": "Deco Center, KG 9 Ave, Kigali, Rwanda",
+                "working_hours": "Monday – Friday | 8am – 10pm, Saturday | 8am – 8pm, Sunday | 10am – 6pm"
+            },
+            {
+                "name": "Casablanca, Morocco",
+                "locations": [
+                    {
+                        "name": "Spaces | Casablanca Anfa Place",
+                        "location": "Casablanca 20000",
+                        "working_hours": "Monday – Sunday | 9:30am – 10:15pm"
+                    },
+                    {
+                        "name": "Park | Casablanca Nearshore",
+                        "location": "Casablanca 20190",
+                        "working_hours": "Monday – Sunday | 9:30am – 10:15pm"
+                    }
+                ]
+            },
+            {
+                "name": "Lagos, Nigeria",
+                "location": "ALX Costain Hub – 4th Floor, ITF (Industrial Training Fund) Building, Funsho Williams Avenue, Lagos",
+                "working_hours": "Monday – Saturday | 8am – 8pm"
+            }
+        ]
+    }
+  }
+
+}

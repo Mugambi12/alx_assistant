@@ -1,0 +1,15 @@
+<div class="chat-bubble" id="chat-bubble"><strong>Alexy</strong></div>
+<div class="chat-container" id="chat-container">
+    <div class="chat-header">
+        <h1 class="title"><strong>Alexy</strong></h1>
+    </div>
+    <div class="chat-messages" id="chat-messages"></div>
+    <div class="send-btn-container">
+        <input type="text" class="input-message" id="message" placeholder="Type a message...">
+        <button class="send-btn" onclick="sendMessage()">
+            <span class="send-btn-icon">➔</span>
+        </button>
+        <div class="popup">Send message</div>
+    </div>
+</div>
+<script src="{{ url_for('static', filename='js/chatbot.js') }}"></script>

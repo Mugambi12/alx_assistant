@@ -1,0 +1,13 @@
+intents:
+  - greet
+  - goodbye
+
+actions:
+  - action_greet
+
+responses:
+  utter_greet:
+    - text: "Hello! How can I assist you today?"
+
+session_config:
+  session_expiration_time: 60
