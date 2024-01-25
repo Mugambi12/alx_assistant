@@ -1,5 +1,0 @@
-- story: user greets and says goodbye
-  steps:
-    - intent: greet
-    - action: action_greet
-    - intent: goodbye
